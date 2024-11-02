@@ -11,4 +11,3 @@ We love font icons: http://weloveiconfonts.com/
 
 */
 
-Dark-wall pattern: https://subtlepatterns.com/dark-wall/
